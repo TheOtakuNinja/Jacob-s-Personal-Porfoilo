@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  color:rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+}
+
+h3{
+  font-size: 2em;
+  font-family: cursive;
+}
+p{
+  font-size: 1em;
+  font-family: monospace;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0)
+}
+
+#hobbies{
+  font-size: 1em;
+  font-family: 'Pacifico', cursive;
+}
+img{
+  border: 10px;
+  border-style: ridge;
+  border-color: rgb(102, 2, 2);
+  width: 350px;
+  height: 250px;
+  padding: 5px 5px 5px 5px;
+}
+hr{
+  border-color: rgb(255, 255, 255);
+}
+
+nav a{
+  font-size: 1em;
+  font-family: 'Pacifico', cursive;
+}
+
+#contact{
+  color: cyan;
+  border: 2px;
+  border-style: double;
+}
